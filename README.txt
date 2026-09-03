@@ -1,0 +1,1 @@
+Open index.html in a browser. Add resume.pdf and replace placeholder contact links/images before publishing.
